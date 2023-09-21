@@ -1,0 +1,10 @@
+[Plugin]
+Name = Naomi_HomeAssistant
+Version = 0.1.0
+License = MIT
+URL = https://github.com/aaronchantrill/Naomi_HomeAssistant.git
+Description = Integrate with HomeAssistant
+
+[Author]
+Name = Aaron Chantrill
+URL = https://github.com/aaronchantrill
